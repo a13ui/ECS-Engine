@@ -1,0 +1,12 @@
+C:\Users\jackm\source\repos\RogueLike\Engine\bin\Release\net9.0\win-x64\Engine.deps.json
+C:\Users\jackm\source\repos\RogueLike\Engine\bin\Release\net9.0\win-x64\Engine.dll
+C:\Users\jackm\source\repos\RogueLike\Engine\bin\Release\net9.0\win-x64\Engine.pdb
+C:\Users\jackm\source\repos\RogueLike\Engine\obj\Release\net9.0\win-x64\Engine.csproj.AssemblyReference.cache
+C:\Users\jackm\source\repos\RogueLike\Engine\obj\Release\net9.0\win-x64\Engine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jackm\source\repos\RogueLike\Engine\obj\Release\net9.0\win-x64\Engine.AssemblyInfoInputs.cache
+C:\Users\jackm\source\repos\RogueLike\Engine\obj\Release\net9.0\win-x64\Engine.AssemblyInfo.cs
+C:\Users\jackm\source\repos\RogueLike\Engine\obj\Release\net9.0\win-x64\Engine.csproj.CoreCompileInputs.cache
+C:\Users\jackm\source\repos\RogueLike\Engine\obj\Release\net9.0\win-x64\Engine.dll
+C:\Users\jackm\source\repos\RogueLike\Engine\obj\Release\net9.0\win-x64\refint\Engine.dll
+C:\Users\jackm\source\repos\RogueLike\Engine\obj\Release\net9.0\win-x64\Engine.pdb
+C:\Users\jackm\source\repos\RogueLike\Engine\obj\Release\net9.0\win-x64\ref\Engine.dll
