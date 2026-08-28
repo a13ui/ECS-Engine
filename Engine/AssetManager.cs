@@ -9,7 +9,6 @@ namespace Engine
 
         private readonly List<string> textureNames = new()
         {
-            "Test"
         };
 
         public void Load(ContentManager content)

@@ -3,7 +3,7 @@ using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 using Engine;
 
-namespace ECSGame
+namespace MonoGameECS
 {
     public class Game1 : Game
     {
@@ -45,7 +45,8 @@ namespace ECSGame
         {
             assets.Load(Content);
 
-            scenes.SetScene("Start");
+            // Add scenes here
+            scenes.SetScene("scene name");
         }
 
         protected override void Update(GameTime gameTime)
